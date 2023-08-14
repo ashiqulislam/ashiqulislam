@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ashiqulislam
 - 👀 I’m interested learning new technology.
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on new project.
 - 📫 How to reach me ashiq@ashiqulislam.com
 
